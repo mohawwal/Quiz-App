@@ -50,3 +50,9 @@ button {
     font-size: 30px;
     color: darkslateblue;
 }
+
+@media (min-width: 500px) {
+    .options {
+        width: 60%;
+    }
+}
